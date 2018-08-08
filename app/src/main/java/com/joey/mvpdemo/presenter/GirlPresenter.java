@@ -5,7 +5,6 @@ import com.joey.mvpdemo.model.GirlModelImpl;
 import com.joey.mvpdemo.model.IGirlModel;
 import com.joey.mvpdemo.view.IGirlView;
 
-import java.lang.ref.WeakReference;
 import java.util.List;
 
 /**
